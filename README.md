@@ -1,3 +1,5 @@
+László Andrea - DJ7PNE - konverzió
+
 # calendar2job
 
 Naptár bejegyzések átalakítása feladat
