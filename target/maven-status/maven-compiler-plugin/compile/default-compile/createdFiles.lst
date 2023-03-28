@@ -1,0 +1,6 @@
+hu/me/java/output/Printer.class
+hu/me/java/input/CsvReader.class
+hu/me/java/model/Calendar.class
+hu/me/java/model/Job.class
+hu/me/java/DateException.class
+hu/me/java/JobConverter.class

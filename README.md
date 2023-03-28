@@ -1,8 +1,6 @@
-László Andrea - DJ7PNE - konverzió
-
 # calendar2job
 
-Naptár bejegyzések átalakítása feladat
+Naptár bejegyzések átalakítása feladat. Alap interfeszek.
 
 
 Naptár bejegyzések és feladatok közötti konverzió  biztosítása.
